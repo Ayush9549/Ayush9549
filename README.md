@@ -2,7 +2,7 @@
 ### Senior Full Stack Developer @ WAE (We Are Engineer)
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad." alt="Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad." alt="Quotes" />
 </div>
 
 <p align="center">
@@ -32,15 +32,15 @@
 ### 📊 GitHub Dashboard:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=vue-dark&count_private=true" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=vue-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,10 +51,11 @@
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
+| **Portfolio** | My official professional portfolio website. | [Visit](https://ayushprofile.com) |
 | **Passport for Celebration** | Full-stack platform for cultural wedding experiences. | [Visit](https://passportforcelebration.com) |
 | **FestBuzz** | Events management (Next.js, MongoDB, AWS). | [Visit](https://festbuzz.in) |
-| **HyrUp** | Premium services marketplace (Next.js, Supabase). | [Visit] |
-| **TexTileTrade** | B2B Textile Marketplace (React Native, Supabase). | [Visit] |
+| **HyrUp** | Premium services marketplace (Next.js, Supabase). | [Visit](https://hyr-up.vercel.app) |
+| **TexTileTrade** | B2B Textile Marketplace (React Native, Supabase). | [Visit](https://textile-trade.vercel.app) |
 
 </div>
 
@@ -63,6 +64,9 @@
 ### 🌐 Social Connect:
 
 <div align="center">
+  <a href="https://ayushprofile.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="mailto:ayushkumawat9549@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
