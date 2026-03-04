@@ -31,17 +31,17 @@
 
 ### 📊 GitHub Dashboard:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush9549&theme=dracula" alt="GitHub Details" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Ayush9549&theme=dracula" alt="Most Used Languages" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
