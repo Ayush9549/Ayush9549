@@ -67,9 +67,9 @@
 ### 🌐 Social Connect:
 
 <div align="center">
-  <a href="https://ayushprofile.com">
+  <!-- <a href="https://ayushprofile.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:ayushkumawat9549@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
