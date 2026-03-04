@@ -55,11 +55,11 @@
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Portfolio** | My official professional portfolio website. | [Visit](https://ayushprofile.com) |
+<!--| **Portfolio** | My official professional portfolio website. | [Visit](https://ayushprofile.com) | -->
 | **Passport for Celebration** | Full-stack platform for cultural wedding experiences. | [Visit](https://passportforcelebration.com) |
 | **FestBuzz** | Events management (Next.js, MongoDB, AWS). | [Visit](https://festbuzz.in) |
-| **HyrUp** | Premium services marketplace (Next.js, Supabase). | [Visit](https://hyr-up.vercel.app) |
-| **TexTileTrade** | B2B Textile Marketplace (React Native, Supabase). | [Visit](https://textile-trade.vercel.app) |
+| **HyrUp** | Premium services marketplace (Next.js, Supabase). |  |
+| **TexTileTrade** | B2B Textile Marketplace (React Native, Supabase). |  |
 
 </div>
 
