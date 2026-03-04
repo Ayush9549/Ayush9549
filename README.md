@@ -29,10 +29,14 @@
 
 ---
 
-### 📊 GitHub Activity Dashboard:
+### 📊 GitHub Analysis Dashboard:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush9549&theme=onedark&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
