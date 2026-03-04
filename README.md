@@ -2,14 +2,14 @@
 ### Senior Full Stack Developer @ WAE (We Are Engineer)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Ayush%20Kumawat&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad." alt="Quotes" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Senior_Full_Stack_Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-MERN_Expert-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-React_Native_Developer-61DAFB?style=flat-square&logo=react" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Senior_Full_Stack_Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MERN_Expert-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React_Native_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ---
 
@@ -31,14 +31,17 @@
 
 ### 📊 GitHub Dashboard:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Ayush's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=vue-dark&count_private=true" alt="Ayush's GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=vue-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=vue-dark" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -50,8 +53,8 @@
 | :--- | :--- | :--- |
 | **Passport for Celebration** | Full-stack platform for cultural wedding experiences. | [Visit](https://passportforcelebration.com) |
 | **FestBuzz** | Events management (Next.js, MongoDB, AWS). | [Visit](https://festbuzz.in) |
-| **HyrUp** | Premium services marketplace (Next.js, Supabase). | [Visit](https://hyr-up.vercel.app) |
-| **TexTileTrade** | B2B Textile Marketplace (React Native, Supabase). | [Visit](https://textile-trade.vercel.app) |
+| **HyrUp** | Premium services marketplace (Next.js, Supabase). | [Visit] |
+| **TexTileTrade** | B2B Textile Marketplace (React Native, Supabase). | [Visit] |
 
 </div>
 
