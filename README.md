@@ -31,13 +31,13 @@
 
 ### 📊 GitHub Analysis Dashboard:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush9549&theme=dracula" alt="Activity Graph" />
