@@ -2,7 +2,7 @@
 ### Senior Full Stack Developer @ WAE (We Are Engineer)
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Building%20scalable%20digital%20products%20with%20precision%20and%20passion." alt="Quotes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Developer;MERN+Stack+Expert;React+Native+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -29,19 +29,19 @@
 
 ---
 
-### 📊 GitHub Dashboard:
+### 📊 GitHub Analysis:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=onedark&count_private=true&hide_border=true" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush9549&theme=dracula" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
