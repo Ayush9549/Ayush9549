@@ -29,19 +29,19 @@
 
 ---
 
-### 📊 GitHub Analysis:
+### 📊 GitHub Activity Dashboard:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=onedark&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush9549&theme=onedark&column=7" alt="GitHub Trophies" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush9549&theme=dracula" alt="Activity Graph" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=onedark&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
