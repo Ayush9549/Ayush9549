@@ -2,7 +2,7 @@
 ### Senior Full Stack Developer @ WAE (We Are Engineer)
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad." alt="Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Building%20scalable%20digital%20products%20with%20precision%20and%20passion." alt="Quotes" />
 </div>
 
 <p align="center">
@@ -31,17 +31,17 @@
 
 ### 📊 GitHub Dashboard:
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush9549&theme=dracula" alt="GitHub Details" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Ayush9549&theme=dracula" alt="Most Used Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush9549&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush9549&theme=dracula" alt="Activity Graph" />
+</p>
 
 ---
 
