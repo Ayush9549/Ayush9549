@@ -6,9 +6,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Ayush9549?style=for-the-badge&logo=github&color=22D3EE&labelColor=1c1c1c" />
-  <img src="https://img.shields.io/github/directory-stats/count/Ayush9549?style=for-the-badge&logo=git&color=A855F7&label=REPOS&labelColor=1c1c1c" />
-  <img src="https://img.shields.io/github/followers/Ayush9549?style=for-the-badge&logo=github&color=22D3EE&labelColor=1c1c1c" />
+  <img src="https://img.shields.io/badge/-Senior_Full_Stack_Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MERN_Expert-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React_Native_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ---
@@ -29,10 +29,14 @@
 
 ---
 
-### 📊 GitHub Activity Dashboard:
+### 📊 GitHub Analysis Dashboard:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Ayush9549&theme=dracula" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush9549&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush9549&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
